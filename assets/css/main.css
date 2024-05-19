@@ -2251,18 +2251,18 @@ input, select, textarea {
 		background-repeat: repeat, no-repeat;
 	}
 
-/* One */
+/* o-que-faço */
 
-	#one {
+	#o-que-faço {
 		background: url("images/overlay.png"), url("../../images/ponte1.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
 	}
 
-/* Two */
+/* quem-sou */
 
-	#two {
+	#quem-sou {
 		background: url("images/overlay.png"), url("../../images/ponte2.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
